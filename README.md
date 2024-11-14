@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozzyosvaldo
-- 👀 I’m interested in I am enthusiastic about pursuing a career as a full stack engineer, with a strong interest in contributing to future projects, particularly in the field of AI. I am also passionate about the outdoors and am committed to supporting my team in any way possible to drive successful outcomes.
-- 🌱 I’m currently learning ...
+- 👀 I am enthusiastic about pursuing a career as a full stack engineer, with a strong interest in contributing to future projects, particularly in the field of AI. I am also passionate about the outdoors and am committed to supporting my team in any way possible to drive successful outcomes.
+- 🌱 Technical Skills:  HTML/CSS, Git, GitHub, VSCode, Figma, and JavaScript
 - 💞️ I am eager to collaborate on projects that will allow me to gain additional experience and make meaningful contributions using my skills and knowledge. I am committed to supporting the team in every way I can.
 - 📫 How to reach me ozzyosvaldo@icloud.com
 - 😄 Pronouns: He/Him
