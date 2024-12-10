@@ -4,7 +4,7 @@
 - 💞️ I am eager to collaborate on projects that will allow me to gain additional experience and make meaningful contributions using my skills and knowledge. I am committed to supporting the team in every way I can.
 - 📫 How to reach me ozzyosvaldo@icloud.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love the outdoors, going on hikes and camping etc..
+- ⚡ Fun fact: I love the outdoors, going on hikes, camping etc..
 
 <!---
 ozzyosvaldo/ozzyosvaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
